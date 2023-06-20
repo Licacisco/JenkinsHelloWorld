@@ -8,6 +8,6 @@ public class HelloWorld {
 		int count;
 		count = 10;
 		for(int i=0; i<=count; i++)
-			System.out.println("Number: " +i + " is DONE");
+			System.out.println("Number: " +i + " is READY");
 	}
 }
